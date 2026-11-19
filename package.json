@@ -1,0 +1,29 @@
+{
+  "name": "@devguard/static-snippet-guard",
+  "version": "1.0.0",
+  "description": "Zero-build static site HTML snippet guard with Ed25519 asymmetric verification, domain lock, and tamper-resistant lock overlay",
+  "main": "dist/devguard-snippet.min.js",
+  "module": "src/devguard-snippet.js",
+  "files": [
+    "dist",
+    "src",
+    "README.md"
+  ],
+  "keywords": [
+    "devguard",
+    "static-site",
+    "html-snippet",
+    "ed25519",
+    "domain-lock",
+    "licensing",
+    "jamstack",
+    "webflow",
+    "astro",
+    "jekyll"
+  ],
+  "author": "DevGuard",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
