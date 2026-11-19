@@ -1,5 +1,5 @@
 {
-  "name": "@devguard/static-snippet-guard",
+  "name": "@devguard-uk/static-snippet-guard",
   "version": "1.0.0",
   "description": "Zero-build static site HTML snippet guard with Ed25519 asymmetric verification, domain lock, and tamper-resistant lock overlay",
   "main": "dist/devguard-snippet.min.js",

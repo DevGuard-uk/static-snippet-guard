@@ -11,7 +11,7 @@
  * - Default fail-safe open on network error
  * - Zero external runtime dependencies (<15KB bundle footprint)
  *
- * @package @devguard/static-snippet-guard
+ * @package @devguard-uk/static-snippet-guard
  * @version 1.0.0
  * @license Apache-2.0
  */

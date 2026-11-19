@@ -1,4 +1,4 @@
-# @devguard/static-snippet-guard
+# @devguard-uk/static-snippet-guard
 
 > Zero-build, drop-in static HTML `<script>` tag licensing guard for static sites, Jamstack, Jekyll, Astro, Hugo, and Webflow exports.
 
